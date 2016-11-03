@@ -17,5 +17,8 @@
     "painless-config": "^0.1.0",
     "q": "1.4.1",
     "winston": "2.2.0"
+  },
+  "jshintConfig": {
+    "esversion": "6"
   }
 }
